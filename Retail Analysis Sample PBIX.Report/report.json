@@ -5,7 +5,7 @@
   "sections": [
     {
       "config": "{}",
-      "displayName": "Monthly Sales",
+      "displayName": "District Monthly Sales",
       "displayOption": 0,
       "filters": "[{\"name\":\"Filter\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Time\"}},\"Property\":\"FiscalMonth\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter1\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"District\"}},\"Property\":\"District\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter2\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"District\"}},\"Property\":\"DM\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter3\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Store\"}},\"Property\":\"Name\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter4\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Store\"}},\"Property\":\"Chain\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter5\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Item\"}},\"Property\":\"Category\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false}]",
       "height": 720.00,
