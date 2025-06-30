@@ -5,7 +5,7 @@
   "sections": [
     {
       "config": "{}",
-      "displayName": "District Monthly Sales",
+      "displayName": "Monthly Sales",
       "displayOption": 0,
       "filters": "[{\"name\":\"Filter\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Time\"}},\"Property\":\"FiscalMonth\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter1\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"District\"}},\"Property\":\"District\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter2\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"District\"}},\"Property\":\"DM\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter3\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Store\"}},\"Property\":\"Name\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter4\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Store\"}},\"Property\":\"Chain\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false},{\"name\":\"Filter5\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Item\"}},\"Property\":\"Category\"}},\"type\":\"Categorical\",\"howCreated\":1,\"isLinkedAsAggregation\":false}]",
       "height": 720.00,
@@ -16,7 +16,7 @@
           "config": "{\"name\":\"VisualContainer\",\"layouts\":[{\"id\":0,\"position\":{\"x\":2,\"y\":2,\"z\":0,\"width\":340,\"height\":69}}],\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"District Monthly Sales\",\"textStyle\":{\"fontFamily\":\"Segoe UI Light\",\"fontSize\":\"28pt\",\"fontStyle\":\"normal\",\"fontWeight\":\"normal\"}}],\"horizontalTextAlignment\":\"center\"}]}}]}}}",
           "height": 69.00,
           "width": 340.00,
-          "x": 2.00,
+          "x": 1.99,
           "y": 2.00,
           "z": 0.00
         },
